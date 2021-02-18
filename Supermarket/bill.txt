@@ -1,0 +1,6 @@
+Sprzedawca: Rafal
+Nabywca: Adam
+Zakupione produkty: Bread 
+O wartosci:
+2
+Data:17.01.2021 15:01:47

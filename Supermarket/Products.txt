@@ -1,0 +1,6 @@
+Piwo;3;18
+Wodka;30;18
+Chleb;2;0
+Pomidor;2;0
+Dlugopis;1;0
+test;20;0
